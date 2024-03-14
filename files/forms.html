@@ -30,8 +30,27 @@
   </p>
   <input type="datetime-local">
 
-  <p>Please upload your resume:</p>
+  <p>Please upload your resume:
+    <br>
   <input type="file">
+  </p>
+  <p>
+    Please select your favourite course(s)
+    <p>
+  <label for="java">
+    <input type="checkbox" name="course" value="java" id="java">Java
+  </label>
+    <input type="checkbox" name="course" value="DS">DS
+    <input type="checkbox" name="course" value="UI">UI
+    <input type="checkbox" name="course" value="soft skills">Soft skills
+</p> Please select the course: </p>
+  <select name="course">
+    <option value=""disabled>Select a course</option>
+    <option value="jd">Java Developer</option>
+    <option value="sdet">SDET</option>
+    <option value="cs">Cyber Security</option>
+  </select>
+
 
 </form>
 
