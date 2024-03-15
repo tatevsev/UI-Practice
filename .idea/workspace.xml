@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3f4e485-cbf3-45df-bae4-fa88bbb1c7c7" name="Changes" comment="UI-Practice">
+    <list default="true" id="f3f4e485-cbf3-45df-bae4-fa88bbb1c7c7" name="Changes" comment="css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/files/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/files/forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/files/forms.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +65,7 @@
       <updated>1710206626093</updated>
       <workItem from="1710206627579" duration="5943000" />
       <workItem from="1710291209976" duration="6922000" />
-      <workItem from="1710452295031" duration="1314000" />
+      <workItem from="1710452295031" duration="8841000" />
     </task>
     <task id="LOCAL-00001" summary="UI-Practice">
       <option name="closed" value="true" />
@@ -74,7 +75,31 @@
       <option name="project" value="LOCAL" />
       <updated>1710303425278</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dropdown added">
+      <option name="closed" value="true" />
+      <created>1710453795279</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710453795279</updated>
+    </task>
+    <task id="LOCAL-00003" summary="dropdown added">
+      <option name="closed" value="true" />
+      <created>1710453812278</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710453812278</updated>
+    </task>
+    <task id="LOCAL-00004" summary="css">
+      <option name="closed" value="true" />
+      <created>1710462619963</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710462619963</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +107,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="UI-Practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="UI-Practice" />
+    <MESSAGE value="dropdown added" />
+    <MESSAGE value="css" />
+    <option name="LAST_COMMIT_MESSAGE" value="css" />
   </component>
 </project>
