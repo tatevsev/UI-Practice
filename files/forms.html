@@ -1,11 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
     <title>Forms practice</title>
+  <!--link to css to change the style of the whole page, however inline changes are being prioritize if we have any -->
+  <link rel="stylesheet" href="css/styles.css">
+  <style>
+    body{
+      background-color: blueviolet;
+    }
+  </style>
+
 </head>
-<body>
+<body > <!--placing style in body to change the whole page style-->
 <form>
+  <p style="background-color: yellow">
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur consectetur culpa, deleniti eius esse est fuga laborum numquam,
+    officiis perspiciatis praesentium quam quia! Adipisci fugiat labore magnam molestiae pariatur sint?
+  </p>
 <p>
   Username:
   <input type="text" name="=username">
@@ -50,7 +61,9 @@
     <option value="sdet">SDET</option>
     <option value="cs">Cyber Security</option>
   </select>
-
+  <br>
+  <br>
+  <input type="submit" value="Sign up" id="signup">
 
 </form>
 
