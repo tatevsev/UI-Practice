@@ -15,3 +15,20 @@ p{
     font-family: "Arial Black";
     color: brown;
 }
+/*
+#signup{
+    background-color: darkcyan;
+}
+
+ */
+.btn1{
+    background-color: firebrick;
+    font-size:30px ;
+}
+.btn1:hover{
+    background-color: pink;
+    font-size:30px ;
+}
+.btnFont{
+    font-family: "Droid Sans";
+}
